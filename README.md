@@ -8,7 +8,7 @@ The codes were uploaded to this repository along with their output.
 
 <h3>Running instructions:</h3>  
 
-Note that for convenience, Jupyter Notebook is required.
+Unsurprisingly, Jupyter Notebook is required.
 
 <b>Run the following two commands in the terminal:</b>  
 (you need to "cd" to your files folder and then run the "jupyter notebook targetfile.ipynb" command).

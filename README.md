@@ -2,6 +2,12 @@
 
 Credit to Dr. Roi Yozevitch for the basic implementation.
 
+The codes were uploaded to this repository along with their output.
+
+---  
+
+<h3>Running instructions:</h3>  
+
 Note that for convenience, Jupyter Notebook is required.
 
 <b>Run the following two commands in the terminal:</b>  
